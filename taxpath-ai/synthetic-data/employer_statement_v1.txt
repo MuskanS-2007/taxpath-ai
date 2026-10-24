@@ -1,0 +1,5 @@
+SYNTHETIC DOCUMENT — NOT REAL TAX DATA
+Employer A Annual Statement v1
+Salary INR 600,000
+Demo Deduction INR 30,000
+Total INR 630,000

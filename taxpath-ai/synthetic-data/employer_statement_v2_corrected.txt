@@ -1,0 +1,5 @@
+SYNTHETIC DOCUMENT — NOT REAL TAX DATA
+Employer A Corrected Annual Statement v2
+Salary INR 612,000
+Demo Deduction INR 32,000
+Total INR 644,000
